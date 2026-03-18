@@ -48,3 +48,4 @@ npm run build
 - 需要 Chrome/Edge 等支持 Web Speech API 的浏览器
 - 录音格式为 WebM，可转换为 MP3
 - 语音识别需要网络连接（Chrome 的 Web Speech API 需要联网）
+# 测试自动推送
